@@ -69,6 +69,7 @@ async def cuckbot(ctx):
 
 
 
-bot.run(os.getenv("MTQ1NTc2MjQ1Mjk4ODk1MjgxOQ.G-9DnA.CLYvJ7lkVZya57uCvOiVjKNRCK1RumGzhAQFo4"))
+bot.run(os.getenv("DISCORD_TOKEN"))
+
 
 
