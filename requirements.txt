@@ -1,1 +1,1 @@
-cuckbot.py
+discord.py
